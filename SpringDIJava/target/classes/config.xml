@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+     http://www.springframework.org/schema/beans/spring-beans.xsd
+     http://www.springframework.org/schema/context
+     http://www.springframework.org/schema/context/spring-context.xsd">
+
+	<context:annotation-config />
+
+<!--
+	<bean id="instrument" class="by.test.Accordion"></bean>
+
+	<bean id="guitar" class="by.test.Guitar" primary="false"></bean>
+	<bean id="accoudion" class="by.test.Accordion" primary="true"></bean>
+	<bean id="kenny" class="by.test.Player">
+		<property name="song" value="Storik"></property>
+		<property name="instrument" ref="guitar"></property>
+	</bean>
+
+	<bean id="kolya" class="by.test.Player" autowire="byName">
+		<property name="song" value="Kluka"></property>
+	</bean>
+
+	<bean id="vasya" class="by.test.Player" autowire="byType">
+		<property name="song" value="Jiki"></property>
+	</bean>
+
+	<bean id="oleg" class="by.test.Player" autowire="constructor">
+	</bean>
+
+
+	<bean id="duke" class="by.test.PoeticJuggler" autowire="constructor"></bean>
+	<bean id="sonnet" class="by.test.Sonnet29"></bean>
+
+-->
+	<bean id="piano" class="by.auto.Piano"></bean>
+	<bean id="accordion" class="by.auto.Accordion"></bean>
+	<bean id="olga" class="by.auto.Musician">
+		<property name="song" value="Kilka"></property>
+	</bean>
+
+
+</beans>

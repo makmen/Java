@@ -1,0 +1,1000 @@
+Circle{r=14, area = 615.7521601035994}
+Triangle{a=7, b=13, c=17, area = 31.464265445104548}
+Triangle{a=10, b=19, c=18, area = 77.33045971672482}
+Circle{r=18, area = 1017.8760197630929}
+Triangle{a=18, b=19, c=10, area = 77.33045971672482}
+Triangle{a=9, b=10, c=7, area = 30.59411708155671}
+Circle{r=9, area = 254.46900494077323}
+Circle{r=11, area = 380.1327110843649}
+Circle{r=13, area = 530.929158456675}
+Rectangle{a=9, b=16, area = 144.0}
+Square{a=14, area = 196.0}
+Square{a=16, area = 256.0}
+Triangle{a=13, b=13, c=6, area = 37.94733192202055}
+Triangle{a=17, b=11, c=5, area = NaN}
+Trapeze{a=10, b=17, h=11, area = 148.0}
+Square{a=16, area = 256.0}
+Triangle{a=10, b=14, c=10, area = 49.98999899979995}
+Circle{r=5, area = 78.53981633974483}
+Triangle{a=19, b=5, c=10, area = NaN}
+Circle{r=16, area = 804.247719318987}
+Circle{r=6, area = 113.09733552923255}
+Trapeze{a=15, b=19, h=10, area = 170.0}
+Square{a=8, area = 64.0}
+Circle{r=19, area = 1134.1149479459152}
+Triangle{a=18, b=6, c=7, area = NaN}
+Triangle{a=10, b=8, c=17, area = 0.0}
+Square{a=16, area = 256.0}
+Rectangle{a=17, b=15, area = 255.0}
+Square{a=7, area = 49.0}
+Trapeze{a=8, b=13, h=16, area = 168.0}
+Square{a=7, area = 49.0}
+Circle{r=12, area = 452.3893421169302}
+Rectangle{a=14, b=15, area = 210.0}
+Circle{r=5, area = 78.53981633974483}
+Circle{r=11, area = 380.1327110843649}
+Square{a=13, area = 169.0}
+Square{a=16, area = 256.0}
+Square{a=7, area = 49.0}
+Square{a=11, area = 121.0}
+Square{a=14, area = 196.0}
+Square{a=9, area = 81.0}
+Circle{r=6, area = 113.09733552923255}
+Square{a=14, area = 196.0}
+Square{a=14, area = 196.0}
+Circle{r=11, area = 380.1327110843649}
+Triangle{a=8, b=14, c=17, area = 45.71651780264984}
+Circle{r=12, area = 452.3893421169302}
+Trapeze{a=7, b=17, h=12, area = 144.0}
+Triangle{a=11, b=15, c=15, area = 67.08203932499369}
+Triangle{a=6, b=15, c=9, area = 0.0}
+Square{a=5, area = 25.0}
+Trapeze{a=14, b=17, h=9, area = 139.0}
+Trapeze{a=6, b=13, h=14, area = 133.0}
+Trapeze{a=19, b=10, h=13, area = 188.0}
+Triangle{a=17, b=6, c=6, area = NaN}
+Square{a=14, area = 196.0}
+Rectangle{a=13, b=18, area = 234.0}
+Rectangle{a=7, b=5, area = 35.0}
+Square{a=16, area = 256.0}
+Rectangle{a=8, b=7, area = 56.0}
+Rectangle{a=18, b=16, area = 288.0}
+Circle{r=15, area = 706.8583470577034}
+Circle{r=13, area = 530.929158456675}
+Trapeze{a=8, b=15, h=5, area = 57.0}
+Square{a=5, area = 25.0}
+Triangle{a=6, b=10, c=13, area = 21.166010488516726}
+Square{a=9, area = 81.0}
+Trapeze{a=15, b=6, h=7, area = 73.0}
+Circle{r=12, area = 452.3893421169302}
+Circle{r=11, area = 380.1327110843649}
+Square{a=6, area = 36.0}
+Triangle{a=8, b=5, c=5, area = 12.0}
+Square{a=16, area = 256.0}
+Square{a=11, area = 121.0}
+Square{a=18, area = 324.0}
+Triangle{a=10, b=13, c=16, area = 55.47972602672079}
+Circle{r=13, area = 530.929158456675}
+Rectangle{a=19, b=19, area = 361.0}
+Rectangle{a=5, b=13, area = 65.0}
+Trapeze{a=18, b=8, h=19, area = 247.0}
+Circle{r=5, area = 78.53981633974483}
+Rectangle{a=9, b=15, area = 135.0}
+Circle{r=15, area = 706.8583470577034}
+Circle{r=7, area = 153.93804002589985}
+Trapeze{a=17, b=5, h=6, area = 66.0}
+Square{a=7, area = 49.0}
+Square{a=16, area = 256.0}
+Rectangle{a=13, b=11, area = 143.0}
+Rectangle{a=18, b=12, area = 216.0}
+Square{a=9, area = 81.0}
+Triangle{a=8, b=6, c=12, area = 21.330729007701542}
+Circle{r=6, area = 113.09733552923255}
+Trapeze{a=13, b=8, h=15, area = 157.0}
+Circle{r=5, area = 78.53981633974483}
+Triangle{a=10, b=5, c=19, area = NaN}
+Trapeze{a=8, b=18, h=13, area = 169.0}
+Triangle{a=10, b=19, c=19, area = 91.6515138991168}
+Rectangle{a=12, b=18, area = 216.0}
+Trapeze{a=11, b=15, h=8, area = 104.0}
+Triangle{a=8, b=17, c=11, area = 35.4964786985977}
+Square{a=13, area = 169.0}
+Triangle{a=6, b=11, c=11, area = 31.74901573277509}
+Triangle{a=9, b=6, c=16, area = NaN}
+Triangle{a=9, b=17, c=5, area = NaN}
+Trapeze{a=11, b=19, h=11, area = 165.0}
+Circle{r=6, area = 113.09733552923255}
+Triangle{a=8, b=18, c=6, area = NaN}
+Square{a=9, area = 81.0}
+Square{a=8, area = 64.0}
+Square{a=8, area = 64.0}
+Rectangle{a=18, b=7, area = 126.0}
+Triangle{a=8, b=19, c=7, area = NaN}
+Triangle{a=17, b=15, c=12, area = 87.74964387392122}
+Triangle{a=13, b=9, c=19, area = 39.242833740697165}
+Square{a=19, area = 361.0}
+Triangle{a=14, b=14, c=5, area = 26.5329983228432}
+Rectangle{a=9, b=18, area = 162.0}
+Square{a=17, area = 289.0}
+Square{a=12, area = 144.0}
+Circle{r=16, area = 804.247719318987}
+Triangle{a=12, b=14, c=13, area = 63.166446789415026}
+Triangle{a=7, b=15, c=15, area = 42.21374183841087}
+Circle{r=8, area = 201.06192982974676}
+Triangle{a=9, b=17, c=17, area = 63.49803146555018}
+Triangle{a=18, b=11, c=14, area = 66.40783086353596}
+Square{a=11, area = 121.0}
+Rectangle{a=12, b=17, area = 204.0}
+Trapeze{a=11, b=8, h=10, area = 95.0}
+Triangle{a=7, b=17, c=15, area = 42.708313008125245}
+Rectangle{a=10, b=5, area = 50.0}
+Triangle{a=6, b=9, c=11, area = 26.981475126464083}
+Circle{r=17, area = 907.9202768874503}
+Rectangle{a=8, b=10, area = 80.0}
+Square{a=12, area = 144.0}
+Trapeze{a=5, b=18, h=13, area = 149.0}
+Square{a=14, area = 196.0}
+Square{a=5, area = 25.0}
+Circle{r=8, area = 201.06192982974676}
+Circle{r=6, area = 113.09733552923255}
+Square{a=18, area = 324.0}
+Square{a=6, area = 36.0}
+Rectangle{a=17, b=7, area = 119.0}
+Square{a=10, area = 100.0}
+Rectangle{a=8, b=5, area = 40.0}
+Square{a=9, area = 81.0}
+Rectangle{a=6, b=12, area = 72.0}
+Circle{r=16, area = 804.247719318987}
+Trapeze{a=7, b=12, h=18, area = 171.0}
+Rectangle{a=12, b=18, area = 216.0}
+Square{a=7, area = 49.0}
+Circle{r=5, area = 78.53981633974483}
+Circle{r=14, area = 615.7521601035994}
+Trapeze{a=14, b=17, h=14, area = 217.0}
+Rectangle{a=17, b=11, area = 187.0}
+Square{a=5, area = 25.0}
+Circle{r=8, area = 201.06192982974676}
+Square{a=16, area = 256.0}
+Circle{r=7, area = 153.93804002589985}
+Square{a=14, area = 196.0}
+Rectangle{a=15, b=19, area = 285.0}
+Trapeze{a=6, b=13, h=8, area = 76.0}
+Trapeze{a=14, b=5, h=13, area = 123.0}
+Rectangle{a=16, b=18, area = 288.0}
+Square{a=17, area = 289.0}
+Square{a=17, area = 289.0}
+Square{a=19, area = 361.0}
+Trapeze{a=5, b=17, h=10, area = 110.0}
+Rectangle{a=16, b=14, area = 224.0}
+Triangle{a=6, b=15, c=7, area = NaN}
+Triangle{a=19, b=6, c=17, area = 50.19960159204453}
+Trapeze{a=6, b=11, h=7, area = 59.0}
+Trapeze{a=6, b=14, h=6, area = 60.0}
+Triangle{a=18, b=10, c=18, area = 86.45808232895291}
+Rectangle{a=16, b=5, area = 80.0}
+Rectangle{a=8, b=13, area = 104.0}
+Triangle{a=15, b=17, c=11, area = 70.9929573971954}
+Square{a=15, area = 225.0}
+Rectangle{a=19, b=10, area = 190.0}
+Triangle{a=14, b=18, c=8, area = 53.665631459994955}
+Rectangle{a=7, b=12, area = 84.0}
+Trapeze{a=5, b=19, h=12, area = 144.0}
+Triangle{a=12, b=6, c=6, area = 0.0}
+Triangle{a=11, b=6, c=7, area = 18.973665961010276}
+Rectangle{a=5, b=6, area = 30.0}
+Rectangle{a=18, b=18, area = 324.0}
+Square{a=13, area = 169.0}
+Trapeze{a=19, b=9, h=16, area = 224.0}
+Rectangle{a=18, b=6, area = 108.0}
+Circle{r=14, area = 615.7521601035994}
+Rectangle{a=7, b=18, area = 126.0}
+Circle{r=19, area = 1134.1149479459152}
+Circle{r=8, area = 201.06192982974676}
+Triangle{a=12, b=10, c=17, area = 48.92851929090027}
+Square{a=18, area = 324.0}
+Trapeze{a=8, b=14, h=14, area = 154.0}
+Rectangle{a=10, b=18, area = 180.0}
+Triangle{a=15, b=5, c=18, area = 32.61901286060018}
+Square{a=13, area = 169.0}
+Circle{r=17, area = 907.9202768874503}
+Circle{r=18, area = 1017.8760197630929}
+Trapeze{a=5, b=5, h=12, area = 60.0}
+Rectangle{a=7, b=19, area = 133.0}
+Triangle{a=6, b=18, c=19, area = 43.474130238568314}
+Circle{r=9, area = 254.46900494077323}
+Triangle{a=11, b=19, c=17, area = 81.38795979750321}
+Triangle{a=11, b=19, c=15, area = 71.28814768248647}
+Circle{r=16, area = 804.247719318987}
+Square{a=16, area = 256.0}
+Trapeze{a=11, b=14, h=14, area = 175.0}
+Triangle{a=6, b=8, c=12, area = 21.330729007701542}
+Rectangle{a=7, b=10, area = 70.0}
+Square{a=17, area = 289.0}
+Circle{r=7, area = 153.93804002589985}
+Triangle{a=11, b=10, c=5, area = 24.979991993593593}
+Triangle{a=12, b=7, c=17, area = 34.46737587922817}
+Trapeze{a=19, b=11, h=18, area = 270.0}
+Trapeze{a=19, b=12, h=6, area = 93.0}
+Rectangle{a=14, b=9, area = 126.0}
+Circle{r=13, area = 530.929158456675}
+Rectangle{a=8, b=13, area = 104.0}
+Trapeze{a=14, b=17, h=11, area = 170.0}
+Rectangle{a=10, b=6, area = 60.0}
+Rectangle{a=13, b=11, area = 143.0}
+Square{a=19, area = 361.0}
+Circle{r=16, area = 804.247719318987}
+Trapeze{a=7, b=7, h=15, area = 105.0}
+Triangle{a=15, b=16, c=6, area = 36.0}
+Circle{r=8, area = 201.06192982974676}
+Square{a=12, area = 144.0}
+Circle{r=19, area = 1134.1149479459152}
+Trapeze{a=13, b=7, h=5, area = 50.0}
+Rectangle{a=12, b=7, area = 84.0}
+Square{a=14, area = 196.0}
+Rectangle{a=9, b=5, area = 45.0}
+Square{a=18, area = 324.0}
+Circle{r=14, area = 615.7521601035994}
+Triangle{a=16, b=17, c=7, area = 55.85696017507576}
+Square{a=7, area = 49.0}
+Triangle{a=11, b=18, c=17, area = 90.9945053286186}
+Square{a=18, area = 324.0}
+Triangle{a=14, b=14, c=17, area = 83.90470785361212}
+Square{a=19, area = 361.0}
+Circle{r=5, area = 78.53981633974483}
+Circle{r=18, area = 1017.8760197630929}
+Triangle{a=11, b=19, c=6, area = NaN}
+Trapeze{a=12, b=14, h=15, area = 195.0}
+Triangle{a=5, b=9, c=15, area = NaN}
+Triangle{a=9, b=18, c=8, area = NaN}
+Rectangle{a=11, b=9, area = 99.0}
+Circle{r=19, area = 1134.1149479459152}
+Circle{r=11, area = 380.1327110843649}
+Trapeze{a=5, b=5, h=8, area = 40.0}
+Triangle{a=11, b=18, c=6, area = NaN}
+Circle{r=11, area = 380.1327110843649}
+Square{a=12, area = 144.0}
+Triangle{a=10, b=13, c=16, area = 55.47972602672079}
+Circle{r=19, area = 1134.1149479459152}
+Square{a=5, area = 25.0}
+Rectangle{a=11, b=12, area = 132.0}
+Circle{r=14, area = 615.7521601035994}
+Trapeze{a=13, b=19, h=10, area = 160.0}
+Rectangle{a=17, b=13, area = 221.0}
+Trapeze{a=14, b=13, h=5, area = 67.0}
+Rectangle{a=12, b=14, area = 168.0}
+Circle{r=7, area = 153.93804002589985}
+Triangle{a=19, b=7, c=7, area = NaN}
+Trapeze{a=17, b=15, h=14, area = 224.0}
+Trapeze{a=18, b=10, h=5, area = 70.0}
+Square{a=5, area = 25.0}
+Circle{r=13, area = 530.929158456675}
+Circle{r=19, area = 1134.1149479459152}
+Square{a=6, area = 36.0}
+Square{a=5, area = 25.0}
+Circle{r=7, area = 153.93804002589985}
+Trapeze{a=8, b=18, h=6, area = 78.0}
+Circle{r=15, area = 706.8583470577034}
+Circle{r=14, area = 615.7521601035994}
+Trapeze{a=5, b=15, h=14, area = 140.0}
+Triangle{a=17, b=13, c=11, area = 61.48170459575759}
+Square{a=10, area = 100.0}
+Rectangle{a=13, b=8, area = 104.0}
+Square{a=6, area = 36.0}
+Circle{r=9, area = 254.46900494077323}
+Circle{r=9, area = 254.46900494077323}
+Square{a=9, area = 81.0}
+Triangle{a=8, b=5, c=11, area = 18.33030277982336}
+Triangle{a=18, b=12, c=18, area = 101.82337649086284}
+Triangle{a=15, b=15, c=14, area = 92.8654941299512}
+Triangle{a=8, b=6, c=14, area = 0.0}
+Rectangle{a=6, b=19, area = 114.0}
+Triangle{a=17, b=5, c=15, area = 26.49528259898354}
+Triangle{a=13, b=10, c=15, area = 64.06246951218786}
+Square{a=5, area = 25.0}
+Square{a=10, area = 100.0}
+Triangle{a=11, b=9, c=5, area = 15.874507866387544}
+Rectangle{a=14, b=19, area = 266.0}
+Triangle{a=5, b=17, c=8, area = NaN}
+Circle{r=18, area = 1017.8760197630929}
+Square{a=5, area = 25.0}
+Triangle{a=10, b=6, c=16, area = 0.0}
+Triangle{a=13, b=9, c=13, area = 46.647615158762406}
+Rectangle{a=9, b=12, area = 108.0}
+Triangle{a=10, b=17, c=9, area = 36.0}
+Square{a=7, area = 49.0}
+Trapeze{a=11, b=9, h=5, area = 50.0}
+Trapeze{a=19, b=10, h=5, area = 72.0}
+Rectangle{a=14, b=5, area = 70.0}
+Circle{r=6, area = 113.09733552923255}
+Square{a=14, area = 196.0}
+Circle{r=17, area = 907.9202768874503}
+Triangle{a=7, b=6, c=15, area = NaN}
+Circle{r=10, area = 314.1592653589793}
+Square{a=18, area = 324.0}
+Trapeze{a=15, b=12, h=12, area = 162.0}
+Trapeze{a=12, b=9, h=15, area = 157.0}
+Square{a=9, area = 81.0}
+Square{a=9, area = 81.0}
+Square{a=18, area = 324.0}
+Trapeze{a=15, b=5, h=7, area = 70.0}
+Triangle{a=10, b=16, c=17, area = 67.97058187186572}
+Square{a=15, area = 225.0}
+Trapeze{a=13, b=16, h=11, area = 159.0}
+Rectangle{a=15, b=11, area = 165.0}
+Square{a=10, area = 100.0}
+Square{a=9, area = 81.0}
+Rectangle{a=19, b=19, area = 361.0}
+Triangle{a=8, b=18, c=13, area = 35.41186241925155}
+Trapeze{a=14, b=14, h=18, area = 252.0}
+Circle{r=8, area = 201.06192982974676}
+Trapeze{a=8, b=10, h=6, area = 54.0}
+Circle{r=11, area = 380.1327110843649}
+Square{a=13, area = 169.0}
+Rectangle{a=8, b=5, area = 40.0}
+Rectangle{a=15, b=19, area = 285.0}
+Square{a=19, area = 361.0}
+Square{a=17, area = 289.0}
+Triangle{a=8, b=7, c=16, area = NaN}
+Triangle{a=6, b=10, c=8, area = 24.0}
+Trapeze{a=14, b=13, h=18, area = 243.0}
+Trapeze{a=12, b=11, h=15, area = 172.0}
+Trapeze{a=16, b=11, h=17, area = 229.0}
+Trapeze{a=6, b=16, h=5, area = 55.0}
+Triangle{a=7, b=14, c=10, area = 24.49489742783178}
+Triangle{a=13, b=11, c=15, area = 60.398675482166}
+Rectangle{a=7, b=5, area = 35.0}
+Circle{r=18, area = 1017.8760197630929}
+Circle{r=18, area = 1017.8760197630929}
+Triangle{a=8, b=7, c=9, area = 26.832815729997478}
+Trapeze{a=12, b=15, h=15, area = 202.0}
+Trapeze{a=16, b=17, h=10, area = 165.0}
+Circle{r=5, area = 78.53981633974483}
+Rectangle{a=12, b=7, area = 84.0}
+Rectangle{a=19, b=7, area = 133.0}
+Circle{r=12, area = 452.3893421169302}
+Trapeze{a=17, b=14, h=17, area = 263.0}
+Circle{r=12, area = 452.3893421169302}
+Square{a=16, area = 256.0}
+Trapeze{a=9, b=18, h=13, area = 175.0}
+Circle{r=9, area = 254.46900494077323}
+Trapeze{a=15, b=11, h=10, area = 130.0}
+Rectangle{a=5, b=13, area = 65.0}
+Trapeze{a=15, b=16, h=15, area = 232.0}
+Triangle{a=19, b=6, c=17, area = 50.19960159204453}
+Rectangle{a=13, b=18, area = 234.0}
+Square{a=16, area = 256.0}
+Circle{r=10, area = 314.1592653589793}
+Triangle{a=16, b=16, c=15, area = 94.95261976375376}
+Rectangle{a=18, b=19, area = 342.0}
+Circle{r=6, area = 113.09733552923255}
+Rectangle{a=14, b=7, area = 98.0}
+Square{a=19, area = 361.0}
+Trapeze{a=17, b=18, h=13, area = 227.0}
+Square{a=7, area = 49.0}
+Square{a=6, area = 36.0}
+Circle{r=19, area = 1134.1149479459152}
+Trapeze{a=16, b=5, h=6, area = 63.0}
+Rectangle{a=18, b=19, area = 342.0}
+Rectangle{a=8, b=9, area = 72.0}
+Trapeze{a=14, b=7, h=14, area = 147.0}
+Rectangle{a=7, b=12, area = 84.0}
+Rectangle{a=5, b=9, area = 45.0}
+Triangle{a=10, b=8, c=5, area = 14.071247279470288}
+Triangle{a=16, b=16, c=10, area = 75.99342076785332}
+Circle{r=7, area = 153.93804002589985}
+Circle{r=16, area = 804.247719318987}
+Square{a=7, area = 49.0}
+Square{a=8, area = 64.0}
+Square{a=11, area = 121.0}
+Trapeze{a=12, b=13, h=15, area = 187.0}
+Circle{r=14, area = 615.7521601035994}
+Trapeze{a=12, b=18, h=8, area = 120.0}
+Circle{r=14, area = 615.7521601035994}
+Circle{r=12, area = 452.3893421169302}
+Square{a=6, area = 36.0}
+Triangle{a=19, b=8, c=8, area = NaN}
+Triangle{a=16, b=14, c=15, area = 85.97674104081871}
+Rectangle{a=7, b=7, area = 49.0}
+Triangle{a=11, b=10, c=5, area = 24.979991993593593}
+Square{a=9, area = 81.0}
+Trapeze{a=17, b=12, h=6, area = 87.0}
+Square{a=11, area = 121.0}
+Triangle{a=16, b=8, c=16, area = 61.96773353931867}
+Trapeze{a=10, b=15, h=10, area = 125.0}
+Square{a=16, area = 256.0}
+Trapeze{a=17, b=5, h=14, area = 154.0}
+Trapeze{a=10, b=8, h=9, area = 81.0}
+Circle{r=19, area = 1134.1149479459152}
+Square{a=5, area = 25.0}
+Trapeze{a=9, b=7, h=16, area = 128.0}
+Triangle{a=5, b=14, c=19, area = 0.0}
+Circle{r=18, area = 1017.8760197630929}
+Circle{r=14, area = 615.7521601035994}
+Rectangle{a=19, b=12, area = 228.0}
+Rectangle{a=18, b=19, area = 342.0}
+Trapeze{a=14, b=18, h=6, area = 96.0}
+Triangle{a=5, b=11, c=6, area = 0.0}
+Trapeze{a=11, b=9, h=15, area = 150.0}
+Triangle{a=11, b=12, c=14, area = 54.99090833947008}
+Triangle{a=11, b=15, c=8, area = 42.8485705712571}
+Circle{r=7, area = 153.93804002589985}
+Circle{r=5, area = 78.53981633974483}
+Trapeze{a=18, b=7, h=16, area = 200.0}
+Trapeze{a=12, b=8, h=17, area = 170.0}
+Triangle{a=6, b=19, c=15, area = 37.416573867739416}
+Square{a=5, area = 25.0}
+Rectangle{a=5, b=18, area = 90.0}
+Rectangle{a=12, b=16, area = 192.0}
+Rectangle{a=11, b=6, area = 66.0}
+Trapeze{a=11, b=9, h=8, area = 80.0}
+Triangle{a=11, b=19, c=7, area = NaN}
+Triangle{a=6, b=6, c=8, area = 17.88854381999832}
+Trapeze{a=14, b=9, h=7, area = 80.0}
+Trapeze{a=11, b=18, h=10, area = 145.0}
+Rectangle{a=8, b=12, area = 96.0}
+Circle{r=12, area = 452.3893421169302}
+Circle{r=16, area = 804.247719318987}
+Triangle{a=6, b=14, c=9, area = 0.0}
+Circle{r=14, area = 615.7521601035994}
+Circle{r=6, area = 113.09733552923255}
+Trapeze{a=7, b=17, h=12, area = 144.0}
+Trapeze{a=17, b=15, h=15, area = 240.0}
+Square{a=13, area = 169.0}
+Rectangle{a=8, b=18, area = 144.0}
+Square{a=14, area = 196.0}
+Triangle{a=7, b=17, c=5, area = NaN}
+Triangle{a=10, b=11, c=15, area = 54.99090833947008}
+Trapeze{a=11, b=13, h=9, area = 108.0}
+Triangle{a=15, b=16, c=8, area = 50.07993610219566}
+Circle{r=12, area = 452.3893421169302}
+Square{a=5, area = 25.0}
+Circle{r=18, area = 1017.8760197630929}
+Rectangle{a=18, b=13, area = 234.0}
+Trapeze{a=14, b=15, h=5, area = 72.0}
+Triangle{a=12, b=12, c=7, area = 32.863353450309965}
+Triangle{a=7, b=8, c=17, area = NaN}
+Circle{r=9, area = 254.46900494077323}
+Rectangle{a=10, b=10, area = 100.0}
+Square{a=15, area = 225.0}
+Trapeze{a=11, b=17, h=9, area = 126.0}
+Trapeze{a=18, b=5, h=8, area = 92.0}
+Rectangle{a=14, b=18, area = 252.0}
+Circle{r=8, area = 201.06192982974676}
+Circle{r=15, area = 706.8583470577034}
+Square{a=8, area = 64.0}
+Trapeze{a=10, b=10, h=6, area = 60.0}
+Triangle{a=9, b=19, c=7, area = NaN}
+Circle{r=19, area = 1134.1149479459152}
+Rectangle{a=8, b=12, area = 96.0}
+Rectangle{a=10, b=6, area = 60.0}
+Triangle{a=8, b=19, c=14, area = 37.94733192202055}
+Trapeze{a=12, b=9, h=15, area = 157.0}
+Trapeze{a=19, b=18, h=17, area = 314.0}
+Trapeze{a=12, b=5, h=19, area = 161.0}
+Trapeze{a=14, b=14, h=9, area = 126.0}
+Trapeze{a=16, b=5, h=17, area = 178.0}
+Square{a=12, area = 144.0}
+Square{a=7, area = 49.0}
+Rectangle{a=7, b=13, area = 91.0}
+Square{a=7, area = 49.0}
+Triangle{a=9, b=7, c=6, area = 20.97617696340303}
+Triangle{a=13, b=18, c=9, area = 55.49774770204643}
+Triangle{a=13, b=8, c=5, area = 0.0}
+Square{a=7, area = 49.0}
+Trapeze{a=5, b=18, h=19, area = 218.0}
+Circle{r=6, area = 113.09733552923255}
+Square{a=11, area = 121.0}
+Trapeze{a=6, b=7, h=8, area = 52.0}
+Triangle{a=5, b=5, c=6, area = 12.0}
+Triangle{a=19, b=5, c=13, area = NaN}
+Circle{r=8, area = 201.06192982974676}
+Circle{r=19, area = 1134.1149479459152}
+Square{a=12, area = 144.0}
+Circle{r=16, area = 804.247719318987}
+Triangle{a=7, b=16, c=15, area = 52.306787322488084}
+Triangle{a=13, b=19, c=17, area = 96.12491872558333}
+Triangle{a=6, b=9, c=7, area = 20.97617696340303}
+Circle{r=7, area = 153.93804002589985}
+Square{a=18, area = 324.0}
+Square{a=5, area = 25.0}
+Square{a=14, area = 196.0}
+Circle{r=14, area = 615.7521601035994}
+Circle{r=6, area = 113.09733552923255}
+Trapeze{a=12, b=13, h=14, area = 175.0}
+Rectangle{a=5, b=6, area = 30.0}
+Square{a=18, area = 324.0}
+Trapeze{a=8, b=12, h=9, area = 90.0}
+Trapeze{a=5, b=15, h=18, area = 180.0}
+Trapeze{a=14, b=8, h=5, area = 55.0}
+Trapeze{a=6, b=17, h=9, area = 103.0}
+Trapeze{a=13, b=5, h=18, area = 162.0}
+Circle{r=19, area = 1134.1149479459152}
+Triangle{a=17, b=11, c=14, area = 76.68115805072325}
+Rectangle{a=14, b=16, area = 224.0}
+Triangle{a=15, b=16, c=16, area = 94.95261976375376}
+Triangle{a=9, b=14, c=19, area = 59.39696961966999}
+Circle{r=18, area = 1017.8760197630929}
+Circle{r=17, area = 907.9202768874503}
+Rectangle{a=5, b=15, area = 75.0}
+Triangle{a=8, b=14, c=16, area = 55.991070716677676}
+Circle{r=19, area = 1134.1149479459152}
+Rectangle{a=9, b=7, area = 63.0}
+Circle{r=10, area = 314.1592653589793}
+Triangle{a=16, b=19, c=6, area = 33.46640106136302}
+Rectangle{a=14, b=11, area = 154.0}
+Square{a=14, area = 196.0}
+Trapeze{a=17, b=8, h=5, area = 62.0}
+Rectangle{a=13, b=9, area = 117.0}
+Triangle{a=15, b=16, c=16, area = 94.95261976375376}
+Trapeze{a=10, b=8, h=17, area = 153.0}
+Circle{r=7, area = 153.93804002589985}
+Circle{r=14, area = 615.7521601035994}
+Circle{r=10, area = 314.1592653589793}
+Square{a=7, area = 49.0}
+Square{a=17, area = 289.0}
+Triangle{a=5, b=16, c=10, area = NaN}
+Trapeze{a=10, b=16, h=9, area = 117.0}
+Rectangle{a=6, b=14, area = 84.0}
+Square{a=14, area = 196.0}
+Square{a=7, area = 49.0}
+Triangle{a=8, b=12, c=16, area = 46.475800154489}
+Rectangle{a=11, b=17, area = 187.0}
+Rectangle{a=19, b=11, area = 209.0}
+Trapeze{a=8, b=16, h=15, area = 180.0}
+Rectangle{a=11, b=16, area = 176.0}
+Triangle{a=6, b=6, c=19, area = NaN}
+Rectangle{a=14, b=12, area = 168.0}
+Rectangle{a=14, b=10, area = 140.0}
+Square{a=13, area = 169.0}
+Triangle{a=16, b=14, c=19, area = 97.97958971132712}
+Triangle{a=5, b=15, c=19, area = 0.0}
+Triangle{a=7, b=9, c=14, area = 26.832815729997478}
+Trapeze{a=13, b=12, h=13, area = 162.0}
+Rectangle{a=18, b=8, area = 144.0}
+Square{a=7, area = 49.0}
+Circle{r=18, area = 1017.8760197630929}
+Rectangle{a=16, b=15, area = 240.0}
+Circle{r=11, area = 380.1327110843649}
+Triangle{a=17, b=17, c=13, area = 90.9945053286186}
+Triangle{a=14, b=19, c=17, area = 114.89125293076057}
+Circle{r=7, area = 153.93804002589985}
+Circle{r=19, area = 1134.1149479459152}
+Square{a=5, area = 25.0}
+Triangle{a=15, b=12, c=7, area = 41.23105625617661}
+Circle{r=11, area = 380.1327110843649}
+Rectangle{a=5, b=6, area = 30.0}
+Triangle{a=5, b=10, c=17, area = NaN}
+Circle{r=13, area = 530.929158456675}
+Triangle{a=7, b=14, c=9, area = 26.832815729997478}
+Triangle{a=10, b=7, c=12, area = 28.0}
+Rectangle{a=13, b=10, area = 130.0}
+Trapeze{a=12, b=18, h=5, area = 75.0}
+Triangle{a=16, b=17, c=7, area = 55.85696017507576}
+Circle{r=8, area = 201.06192982974676}
+Triangle{a=9, b=11, c=18, area = 38.98717737923585}
+Circle{r=13, area = 530.929158456675}
+Triangle{a=10, b=15, c=17, area = 74.45804187594514}
+Triangle{a=19, b=16, c=7, area = 54.22176684690383}
+Trapeze{a=9, b=7, h=8, area = 64.0}
+Trapeze{a=8, b=15, h=5, area = 57.0}
+Rectangle{a=5, b=15, area = 75.0}
+Triangle{a=12, b=7, c=15, area = 41.23105625617661}
+Rectangle{a=14, b=14, area = 196.0}
+Circle{r=16, area = 804.247719318987}
+Circle{r=13, area = 530.929158456675}
+Triangle{a=7, b=18, c=18, area = 51.43928459844674}
+Circle{r=8, area = 201.06192982974676}
+Rectangle{a=14, b=6, area = 84.0}
+Trapeze{a=17, b=8, h=14, area = 175.0}
+Trapeze{a=6, b=9, h=9, area = 67.0}
+Trapeze{a=19, b=6, h=13, area = 162.0}
+Square{a=8, area = 64.0}
+Rectangle{a=19, b=17, area = 323.0}
+Triangle{a=15, b=9, c=16, area = 66.332495807108}
+Square{a=13, area = 169.0}
+Circle{r=19, area = 1134.1149479459152}
+Triangle{a=18, b=15, c=9, area = 67.34983296193094}
+Square{a=12, area = 144.0}
+Triangle{a=9, b=18, c=16, area = 61.48170459575759}
+Rectangle{a=14, b=12, area = 168.0}
+Rectangle{a=5, b=15, area = 75.0}
+Circle{r=8, area = 201.06192982974676}
+Rectangle{a=9, b=19, area = 171.0}
+Square{a=18, area = 324.0}
+Rectangle{a=11, b=8, area = 88.0}
+Circle{r=7, area = 153.93804002589985}
+Square{a=15, area = 225.0}
+Square{a=6, area = 36.0}
+Circle{r=8, area = 201.06192982974676}
+Circle{r=6, area = 113.09733552923255}
+Rectangle{a=8, b=18, area = 144.0}
+Square{a=19, area = 361.0}
+Circle{r=15, area = 706.8583470577034}
+Triangle{a=15, b=12, c=12, area = 61.02458520956943}
+Triangle{a=5, b=5, c=10, area = 0.0}
+Rectangle{a=8, b=16, area = 128.0}
+Square{a=17, area = 289.0}
+Rectangle{a=18, b=6, area = 108.0}
+Triangle{a=14, b=5, c=16, area = 24.73863375370596}
+Circle{r=12, area = 452.3893421169302}
+Square{a=15, area = 225.0}
+Circle{r=11, area = 380.1327110843649}
+Square{a=15, area = 225.0}
+Trapeze{a=15, b=15, h=5, area = 75.0}
+Rectangle{a=8, b=18, area = 144.0}
+Circle{r=8, area = 201.06192982974676}
+Trapeze{a=12, b=11, h=18, area = 207.0}
+Rectangle{a=7, b=6, area = 42.0}
+Circle{r=18, area = 1017.8760197630929}
+Square{a=14, area = 196.0}
+Circle{r=6, area = 113.09733552923255}
+Circle{r=18, area = 1017.8760197630929}
+Square{a=16, area = 256.0}
+Triangle{a=17, b=8, c=14, area = 45.71651780264984}
+Rectangle{a=5, b=19, area = 95.0}
+Triangle{a=11, b=18, c=16, area = 76.2102355330306}
+Square{a=17, area = 289.0}
+Circle{r=9, area = 254.46900494077323}
+Rectangle{a=15, b=12, area = 180.0}
+Trapeze{a=6, b=8, h=17, area = 119.0}
+Circle{r=15, area = 706.8583470577034}
+Triangle{a=10, b=10, c=16, area = 48.0}
+Circle{r=5, area = 78.53981633974483}
+Rectangle{a=18, b=14, area = 252.0}
+Trapeze{a=8, b=15, h=8, area = 92.0}
+Square{a=10, area = 100.0}
+Circle{r=10, area = 314.1592653589793}
+Rectangle{a=12, b=12, area = 144.0}
+Rectangle{a=7, b=18, area = 126.0}
+Square{a=13, area = 169.0}
+Square{a=19, area = 361.0}
+Rectangle{a=12, b=19, area = 228.0}
+Trapeze{a=14, b=6, h=10, area = 100.0}
+Square{a=11, area = 121.0}
+Rectangle{a=7, b=6, area = 42.0}
+Circle{r=8, area = 201.06192982974676}
+Triangle{a=6, b=15, c=9, area = 0.0}
+Square{a=7, area = 49.0}
+Triangle{a=10, b=10, c=13, area = 41.569219381653056}
+Rectangle{a=19, b=9, area = 171.0}
+Trapeze{a=16, b=15, h=12, area = 186.0}
+Square{a=8, area = 64.0}
+Square{a=11, area = 121.0}
+Circle{r=15, area = 706.8583470577034}
+Circle{r=19, area = 1134.1149479459152}
+Trapeze{a=11, b=17, h=12, area = 168.0}
+Square{a=11, area = 121.0}
+Triangle{a=16, b=12, c=15, area = 75.2994023880668}
+Triangle{a=8, b=10, c=16, area = 32.72613634390714}
+Circle{r=8, area = 201.06192982974676}
+Trapeze{a=18, b=14, h=6, area = 96.0}
+Circle{r=6, area = 113.09733552923255}
+Triangle{a=14, b=10, c=5, area = 0.0}
+Square{a=19, area = 361.0}
+Circle{r=16, area = 804.247719318987}
+Triangle{a=16, b=15, c=11, area = 79.37253933193772}
+Square{a=12, area = 144.0}
+Trapeze{a=14, b=14, h=16, area = 224.0}
+Rectangle{a=18, b=5, area = 90.0}
+Trapeze{a=10, b=16, h=5, area = 65.0}
+Square{a=11, area = 121.0}
+Triangle{a=8, b=18, c=8, area = NaN}
+Square{a=13, area = 169.0}
+Rectangle{a=17, b=16, area = 272.0}
+Triangle{a=13, b=17, c=15, area = 83.24662155306964}
+Trapeze{a=8, b=15, h=8, area = 92.0}
+Square{a=10, area = 100.0}
+Circle{r=13, area = 530.929158456675}
+Trapeze{a=12, b=14, h=14, area = 182.0}
+Rectangle{a=8, b=19, area = 152.0}
+Square{a=12, area = 144.0}
+Triangle{a=18, b=8, c=18, area = 70.19971509913698}
+Triangle{a=5, b=17, c=6, area = NaN}
+Square{a=9, area = 81.0}
+Triangle{a=14, b=10, c=7, area = 24.49489742783178}
+Rectangle{a=14, b=12, area = 168.0}
+Circle{r=17, area = 907.9202768874503}
+Trapeze{a=8, b=6, h=10, area = 70.0}
+Triangle{a=14, b=13, c=19, area = 90.9945053286186}
+Circle{r=7, area = 153.93804002589985}
+Trapeze{a=12, b=19, h=10, area = 155.0}
+Trapeze{a=5, b=15, h=10, area = 100.0}
+Rectangle{a=18, b=16, area = 288.0}
+Circle{r=18, area = 1017.8760197630929}
+Square{a=8, area = 64.0}
+Trapeze{a=10, b=16, h=8, area = 104.0}
+Rectangle{a=13, b=18, area = 234.0}
+Square{a=8, area = 64.0}
+Triangle{a=19, b=9, c=7, area = NaN}
+Triangle{a=10, b=5, c=5, area = 0.0}
+Trapeze{a=9, b=7, h=13, area = 104.0}
+Trapeze{a=19, b=6, h=11, area = 137.0}
+Circle{r=10, area = 314.1592653589793}
+Triangle{a=16, b=16, c=8, area = 61.96773353931867}
+Circle{r=11, area = 380.1327110843649}
+Rectangle{a=15, b=18, area = 270.0}
+Rectangle{a=12, b=12, area = 144.0}
+Circle{r=15, area = 706.8583470577034}
+Trapeze{a=13, b=6, h=6, area = 57.0}
+Circle{r=16, area = 804.247719318987}
+Square{a=19, area = 361.0}
+Circle{r=7, area = 153.93804002589985}
+Square{a=17, area = 289.0}
+Circle{r=19, area = 1134.1149479459152}
+Triangle{a=18, b=13, c=9, area = 55.49774770204643}
+Square{a=5, area = 25.0}
+Circle{r=6, area = 113.09733552923255}
+Rectangle{a=14, b=6, area = 84.0}
+Square{a=8, area = 64.0}
+Circle{r=6, area = 113.09733552923255}
+Trapeze{a=11, b=17, h=17, area = 238.0}
+Square{a=6, area = 36.0}
+Rectangle{a=17, b=10, area = 170.0}
+Triangle{a=9, b=7, c=11, area = 24.979991993593593}
+Triangle{a=7, b=6, c=17, area = NaN}
+Triangle{a=8, b=5, c=16, area = NaN}
+Square{a=5, area = 25.0}
+Trapeze{a=17, b=6, h=12, area = 138.0}
+Trapeze{a=15, b=8, h=14, area = 161.0}
+Rectangle{a=13, b=17, area = 221.0}
+Triangle{a=8, b=16, c=11, area = 30.298514815086232}
+Rectangle{a=15, b=16, area = 240.0}
+Trapeze{a=5, b=9, h=14, area = 98.0}
+Trapeze{a=19, b=15, h=6, area = 102.0}
+Square{a=6, area = 36.0}
+Circle{r=15, area = 706.8583470577034}
+Circle{r=5, area = 78.53981633974483}
+Trapeze{a=6, b=15, h=13, area = 136.0}
+Trapeze{a=6, b=16, h=17, area = 187.0}
+Square{a=18, area = 324.0}
+Circle{r=11, area = 380.1327110843649}
+Trapeze{a=7, b=17, h=13, area = 156.0}
+Trapeze{a=5, b=15, h=5, area = 50.0}
+Rectangle{a=16, b=8, area = 128.0}
+Square{a=17, area = 289.0}
+Trapeze{a=18, b=7, h=9, area = 112.0}
+Rectangle{a=19, b=12, area = 228.0}
+Triangle{a=5, b=15, c=9, area = NaN}
+Trapeze{a=19, b=5, h=8, area = 96.0}
+Triangle{a=15, b=5, c=12, area = 26.5329983228432}
+Trapeze{a=18, b=7, h=10, area = 125.0}
+Trapeze{a=5, b=15, h=9, area = 90.0}
+Triangle{a=9, b=13, c=12, area = 52.15361924162119}
+Square{a=6, area = 36.0}
+Circle{r=17, area = 907.9202768874503}
+Circle{r=8, area = 201.06192982974676}
+Rectangle{a=14, b=11, area = 154.0}
+Triangle{a=14, b=12, c=16, area = 81.33265027035576}
+Triangle{a=15, b=6, c=10, area = 0.0}
+Trapeze{a=10, b=5, h=12, area = 90.0}
+Triangle{a=15, b=13, c=13, area = 70.0}
+Rectangle{a=17, b=5, area = 85.0}
+Rectangle{a=8, b=14, area = 112.0}
+Circle{r=15, area = 706.8583470577034}
+Circle{r=6, area = 113.09733552923255}
+Triangle{a=10, b=12, c=16, area = 59.924953066314536}
+Square{a=9, area = 81.0}
+Square{a=6, area = 36.0}
+Trapeze{a=12, b=13, h=15, area = 187.0}
+Square{a=15, area = 225.0}
+Trapeze{a=8, b=12, h=13, area = 130.0}
+Circle{r=18, area = 1017.8760197630929}
+Square{a=11, area = 121.0}
+Rectangle{a=13, b=15, area = 195.0}
+Triangle{a=14, b=10, c=6, area = 25.98076211353316}
+Square{a=12, area = 144.0}
+Square{a=10, area = 100.0}
+Rectangle{a=14, b=13, area = 182.0}
+Triangle{a=11, b=7, c=8, area = 27.92848008753788}
+Circle{r=10, area = 314.1592653589793}
+Trapeze{a=18, b=16, h=18, area = 306.0}
+Triangle{a=8, b=9, c=14, area = 25.099800796022265}
+Circle{r=12, area = 452.3893421169302}
+Triangle{a=19, b=7, c=7, area = NaN}
+Trapeze{a=8, b=17, h=9, area = 112.0}
+Square{a=15, area = 225.0}
+Rectangle{a=9, b=14, area = 126.0}
+Triangle{a=15, b=8, c=12, area = 39.11521443121589}
+Circle{r=8, area = 201.06192982974676}
+Trapeze{a=19, b=6, h=18, area = 225.0}
+Rectangle{a=11, b=13, area = 143.0}
+Circle{r=7, area = 153.93804002589985}
+Square{a=16, area = 256.0}
+Circle{r=19, area = 1134.1149479459152}
+Triangle{a=5, b=17, c=16, area = 39.949968710876355}
+Square{a=11, area = 121.0}
+Trapeze{a=15, b=15, h=16, area = 240.0}
+Square{a=12, area = 144.0}
+Square{a=16, area = 256.0}
+Triangle{a=6, b=10, c=7, area = 14.832396974191326}
+Square{a=11, area = 121.0}
+Square{a=9, area = 81.0}
+Trapeze{a=19, b=12, h=12, area = 186.0}
+Square{a=8, area = 64.0}
+Trapeze{a=11, b=6, h=9, area = 76.0}
+Rectangle{a=8, b=16, area = 128.0}
+Rectangle{a=10, b=17, area = 170.0}
+Triangle{a=17, b=12, c=15, area = 87.74964387392122}
+Trapeze{a=16, b=19, h=14, area = 245.0}
+Triangle{a=8, b=11, c=18, area = 0.0}
+Circle{r=19, area = 1134.1149479459152}
+Triangle{a=19, b=13, c=10, area = 60.794736614282655}
+Circle{r=11, area = 380.1327110843649}
+Square{a=5, area = 25.0}
+Square{a=6, area = 36.0}
+Square{a=18, area = 324.0}
+Triangle{a=14, b=8, c=8, area = 27.110883423451916}
+Circle{r=10, area = 314.1592653589793}
+Square{a=6, area = 36.0}
+Circle{r=18, area = 1017.8760197630929}
+Circle{r=18, area = 1017.8760197630929}
+Trapeze{a=7, b=14, h=11, area = 115.0}
+Trapeze{a=5, b=8, h=6, area = 39.0}
+Circle{r=14, area = 615.7521601035994}
+Square{a=10, area = 100.0}
+Rectangle{a=12, b=6, area = 72.0}
+Rectangle{a=15, b=5, area = 75.0}
+Triangle{a=15, b=14, c=9, area = 61.644140029689765}
+Rectangle{a=13, b=18, area = 234.0}
+Circle{r=15, area = 706.8583470577034}
+Trapeze{a=16, b=17, h=6, area = 99.0}
+Circle{r=11, area = 380.1327110843649}
+Square{a=9, area = 81.0}
+Square{a=13, area = 169.0}
+Trapeze{a=9, b=17, h=16, area = 208.0}
+Circle{r=15, area = 706.8583470577034}
+Triangle{a=7, b=7, c=5, area = 12.0}
+Rectangle{a=11, b=7, area = 77.0}
+Rectangle{a=14, b=19, area = 266.0}
+Triangle{a=16, b=13, c=8, area = 42.42640687119285}
+Circle{r=5, area = 78.53981633974483}
+Rectangle{a=10, b=7, area = 70.0}
+Square{a=12, area = 144.0}
+Rectangle{a=19, b=7, area = 133.0}
+Trapeze{a=12, b=13, h=5, area = 62.0}
+Trapeze{a=16, b=7, h=19, area = 218.0}
+Triangle{a=11, b=19, c=5, area = NaN}
+Circle{r=16, area = 804.247719318987}
+Circle{r=18, area = 1017.8760197630929}
+Rectangle{a=6, b=19, area = 114.0}
+Triangle{a=11, b=14, c=18, area = 66.40783086353596}
+Rectangle{a=7, b=6, area = 42.0}
+Trapeze{a=7, b=12, h=6, area = 57.0}
+Trapeze{a=15, b=19, h=9, area = 153.0}
+Square{a=10, area = 100.0}
+Triangle{a=10, b=19, c=17, area = 84.71127433818948}
+Triangle{a=18, b=11, c=9, area = 38.98717737923585}
+Triangle{a=16, b=18, c=5, area = 28.24889378365107}
+Circle{r=8, area = 201.06192982974676}
+Triangle{a=9, b=16, c=5, area = NaN}
+Triangle{a=9, b=12, c=7, area = 31.304951684997057}
+Rectangle{a=12, b=17, area = 204.0}
+Square{a=19, area = 361.0}
+Trapeze{a=19, b=7, h=8, area = 104.0}
+Circle{r=6, area = 113.09733552923255}
+Rectangle{a=19, b=19, area = 361.0}
+Square{a=11, area = 121.0}
+Trapeze{a=6, b=8, h=12, area = 84.0}
+Triangle{a=15, b=12, c=18, area = 78.48566748139433}
+Circle{r=7, area = 153.93804002589985}
+Trapeze{a=19, b=8, h=13, area = 175.0}
+Rectangle{a=15, b=10, area = 150.0}
+Square{a=18, area = 324.0}
+Square{a=10, area = 100.0}
+Square{a=10, area = 100.0}
+Rectangle{a=19, b=13, area = 247.0}
+Rectangle{a=14, b=11, area = 154.0}
+Rectangle{a=19, b=16, area = 304.0}
+Trapeze{a=9, b=17, h=12, area = 156.0}
+Trapeze{a=14, b=7, h=17, area = 178.0}
+Circle{r=17, area = 907.9202768874503}
+Circle{r=9, area = 254.46900494077323}
+Triangle{a=12, b=19, c=13, area = 77.07139547199077}
+Triangle{a=5, b=7, c=12, area = 0.0}
+Circle{r=19, area = 1134.1149479459152}
+Rectangle{a=15, b=13, area = 195.0}
+Trapeze{a=15, b=18, h=15, area = 247.0}
+Rectangle{a=7, b=14, area = 98.0}
+Circle{r=7, area = 153.93804002589985}
+Square{a=19, area = 361.0}
+Square{a=15, area = 225.0}
+Square{a=18, area = 324.0}
+Circle{r=18, area = 1017.8760197630929}
+Rectangle{a=18, b=16, area = 288.0}
+Square{a=16, area = 256.0}
+Square{a=18, area = 324.0}
+Triangle{a=17, b=15, c=15, area = 93.97872099576584}
+Square{a=10, area = 100.0}
+Trapeze{a=12, b=19, h=17, area = 263.0}
+Square{a=18, area = 324.0}
+Square{a=5, area = 25.0}
+Triangle{a=9, b=16, c=17, area = 70.9929573971954}
+Trapeze{a=17, b=12, h=10, area = 145.0}
+Trapeze{a=9, b=14, h=14, area = 161.0}
+Square{a=7, area = 49.0}
+Square{a=15, area = 225.0}
+Circle{r=19, area = 1134.1149479459152}
+Square{a=15, area = 225.0}
+Trapeze{a=9, b=6, h=19, area = 142.0}
+Square{a=18, area = 324.0}
+Rectangle{a=7, b=7, area = 49.0}
+Triangle{a=18, b=5, c=19, area = 44.8998886412873}
+Square{a=10, area = 100.0}
+Circle{r=6, area = 113.09733552923255}
+Circle{r=9, area = 254.46900494077323}
+Circle{r=11, area = 380.1327110843649}
+Circle{r=5, area = 78.53981633974483}
+Trapeze{a=9, b=18, h=7, area = 94.0}
+Rectangle{a=5, b=10, area = 50.0}
+Circle{r=13, area = 530.929158456675}
+Square{a=18, area = 324.0}
+Circle{r=10, area = 314.1592653589793}
+Triangle{a=17, b=5, c=5, area = NaN}
+Circle{r=5, area = 78.53981633974483}
+Circle{r=18, area = 1017.8760197630929}
+Trapeze{a=14, b=16, h=19, area = 285.0}
+Trapeze{a=6, b=19, h=7, area = 87.0}
+Triangle{a=19, b=10, c=19, area = 91.6515138991168}
+Square{a=10, area = 100.0}
+Rectangle{a=5, b=9, area = 45.0}
+Trapeze{a=17, b=9, h=18, area = 234.0}
+Circle{r=12, area = 452.3893421169302}
+Triangle{a=18, b=9, c=8, area = NaN}
+Circle{r=14, area = 615.7521601035994}
+Triangle{a=15, b=17, c=12, area = 87.74964387392122}
+Trapeze{a=11, b=16, h=11, area = 148.0}
+Trapeze{a=10, b=19, h=11, area = 159.0}
+Square{a=5, area = 25.0}
+Triangle{a=16, b=7, c=5, area = NaN}
+Trapeze{a=19, b=9, h=16, area = 224.0}
+Square{a=16, area = 256.0}
+Rectangle{a=12, b=13, area = 156.0}
+Square{a=18, area = 324.0}
+Circle{r=16, area = 804.247719318987}
+Rectangle{a=15, b=9, area = 135.0}
+Circle{r=19, area = 1134.1149479459152}
+Trapeze{a=15, b=6, h=16, area = 168.0}
+Trapeze{a=16, b=13, h=10, area = 145.0}
+Trapeze{a=8, b=6, h=10, area = 70.0}
+Triangle{a=7, b=7, c=13, area = 0.0}
+Rectangle{a=12, b=9, area = 108.0}
+Square{a=18, area = 324.0}
+Circle{r=9, area = 254.46900494077323}
+Square{a=12, area = 144.0}
+Triangle{a=13, b=19, c=19, area = 103.92304845413264}
+Triangle{a=10, b=13, c=5, area = 22.44994432064365}
+Trapeze{a=10, b=17, h=17, area = 229.0}
+Square{a=9, area = 81.0}
+Circle{r=15, area = 706.8583470577034}
+Circle{r=16, area = 804.247719318987}
+Triangle{a=17, b=11, c=6, area = 0.0}
+Triangle{a=17, b=16, c=16, area = 103.69185117452577}
+Square{a=8, area = 64.0}
+Trapeze{a=5, b=13, h=7, area = 63.0}
+Rectangle{a=13, b=17, area = 221.0}
+Circle{r=19, area = 1134.1149479459152}
+Trapeze{a=17, b=9, h=8, area = 104.0}
+Square{a=16, area = 256.0}
+Trapeze{a=5, b=8, h=14, area = 91.0}
+Circle{r=7, area = 153.93804002589985}
+Triangle{a=8, b=16, c=17, area = 53.665631459994955}
+Trapeze{a=12, b=7, h=8, area = 76.0}
+Square{a=11, area = 121.0}
+Rectangle{a=18, b=13, area = 234.0}
+Circle{r=16, area = 804.247719318987}
+Circle{r=8, area = 201.06192982974676}
+Circle{r=15, area = 706.8583470577034}
+Triangle{a=14, b=19, c=16, area = 97.97958971132712}
+Square{a=5, area = 25.0}
+Triangle{a=18, b=11, c=16, area = 76.2102355330306}
+Circle{r=8, area = 201.06192982974676}
+Triangle{a=5, b=9, c=8, area = 19.8997487421324}
+Rectangle{a=14, b=5, area = 70.0}
+Triangle{a=16, b=8, c=7, area = NaN}
+Square{a=14, area = 196.0}
+Circle{r=13, area = 530.929158456675}
+Triangle{a=6, b=12, c=11, area = 25.92296279363144}
+Circle{r=13, area = 530.929158456675}
+Trapeze{a=18, b=17, h=6, area = 105.0}
+Triangle{a=7, b=6, c=11, area = 18.973665961010276}
+Rectangle{a=15, b=9, area = 135.0}

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8.0.102" xmlns:fx="http://javafx.com/fxml/1" fx:controller="task.three.ThreeController">
+   <children>
+      <Label layoutX="14.0" layoutY="6.0" text="Имя" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="357.0" AnchorPane.topAnchor="5.0" />
+      <TextField fx:id="tfName" layoutX="15.0" layoutY="22.0" prefHeight="25.0" prefWidth="247.0" AnchorPane.bottomAnchor="753.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" />
+      <Label layoutX="15.0" layoutY="47.0" text="Фамилия" />
+      <TextField fx:id="tfSurname" layoutX="15.0" layoutY="63.0" prefHeight="25.0" prefWidth="247.0" AnchorPane.bottomAnchor="712.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" />
+      <Label layoutX="15.0" layoutY="88.0" text="Отчество" />
+      <TextField fx:id="tfLastname" layoutX="15.0" layoutY="104.0" prefHeight="25.0" prefWidth="247.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" />
+      <Label layoutX="18.0" layoutY="129.0" text="Конкурсная работа" AnchorPane.leftAnchor="15.0" />
+      <ComboBox fx:id="cmbWork" layoutX="15.0" layoutY="146.0" prefWidth="150.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" />
+      <Label layoutX="15.0" layoutY="171.0" text="Дисциплина" />
+      <TextField fx:id="tfCourse" layoutX="15.0" layoutY="187.0" prefHeight="25.0" prefWidth="247.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" />
+      <VBox layoutX="15.0" layoutY="229.0" prefHeight="69.0" prefWidth="377.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="8.0">
+         <children>
+            <RadioButton fx:id="rbYoungYes" mnemonicParsing="false" selected="true" text="Да">
+               <VBox.margin>
+                  <Insets bottom="5.0" />
+               </VBox.margin>
+               <toggleGroup>
+                  <ToggleGroup fx:id="gryong" />
+               </toggleGroup>
+            </RadioButton>
+            <RadioButton fx:id="rbYoungNo" mnemonicParsing="false" text="Нет" toggleGroup="$gryong">
+               <VBox.margin>
+                  <Insets bottom="5.0" />
+               </VBox.margin>
+            </RadioButton>
+            <RadioButton fx:id="rbYoungNotKnow" mnemonicParsing="false" text="Не знаю" toggleGroup="$gryong">
+               <VBox.margin>
+                  <Insets bottom="5.0" />
+               </VBox.margin>
+            </RadioButton>
+         </children>
+      </VBox>
+      <Label layoutX="15.0" layoutY="212.0" text="Вы молоды?" />
+      <Label layoutX="15.0" layoutY="298.0" text="Город" />
+      <TextField fx:id="tfCity" layoutX="15.0" layoutY="314.0" prefHeight="25.0" prefWidth="247.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" />
+      <Label layoutX="15.0" layoutY="339.0" text="Область" />
+      <Label layoutX="15.0" layoutY="381.0" text="Организация" />
+      <TextField fx:id="tfCompany" layoutX="15.0" layoutY="397.0" prefHeight="25.0" prefWidth="247.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" />
+      <Label layoutX="15.0" layoutY="422.0" text="Должность" />
+      <TextField fx:id="tfPosition" layoutX="15.0" layoutY="438.0" prefHeight="25.0" prefWidth="247.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" />
+      <CheckBox fx:id="cbChildren" layoutX="15.0" layoutY="469.0" mnemonicParsing="false" text="Дети" />
+      <Label layoutX="14.0" layoutY="494.0" text="Мобильный телефон" />
+      <TextField fx:id="tfPhone" layoutX="14.0" layoutY="510.0" prefHeight="25.0" prefWidth="247.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" />
+      <Label layoutX="15.0" layoutY="535.0" text="Почта" />
+      <TextField fx:id="tfEmail" layoutX="15.0" layoutY="551.0" prefHeight="25.0" prefWidth="247.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" />
+      <CheckBox fx:id="cbDriveLicense" layoutX="16.0" layoutY="582.0" mnemonicParsing="false" text="Водительские права" AnchorPane.leftAnchor="15.0" />
+      <Label layoutX="15.0" layoutY="605.0" text="Хобби" />
+      <TextField fx:id="tfHobby" layoutX="15.0" layoutY="621.0" prefHeight="25.0" prefWidth="247.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" />
+      <VBox layoutX="24.0" layoutY="668.0" prefHeight="93.0" prefWidth="370.0" AnchorPane.leftAnchor="15.0">
+         <children>
+            <RadioButton fx:id="rbKnow1" mnemonicParsing="false" onAction="#handleKnow" selected="true" text="Газета">
+               <toggleGroup>
+                  <ToggleGroup fx:id="grknow" />
+               </toggleGroup></RadioButton>
+            <RadioButton fx:id="rbKnow2" mnemonicParsing="false" onAction="#handleKnow" text="Интернет" toggleGroup="$grknow" />
+            <RadioButton fx:id="rbKnow3" mnemonicParsing="false" onAction="#handleKnow" text="Телевиденье" toggleGroup="$grknow" />
+            <RadioButton fx:id="rbKnow4" mnemonicParsing="false" onAction="#handleKnow" text="Другое" toggleGroup="$grknow" />
+            <TextField fx:id="tfKnowOther" disable="true" />
+         </children>
+      </VBox>
+      <Label layoutX="15.0" layoutY="648.0" text="Как вы о нас узнали?" AnchorPane.leftAnchor="15.0" />
+      <ChoiceBox fx:id="chRegion" layoutX="13.0" layoutY="356.0" prefWidth="150.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" />
+      <HBox alignment="TOP_RIGHT" layoutX="77.0" layoutY="768.0" prefHeight="25.0" prefWidth="200.0" AnchorPane.rightAnchor="15.0">
+         <children>
+            <Button fx:id="btnOk" mnemonicParsing="false" onAction="#handleOk" text="Ок">
+               <HBox.margin>
+                  <Insets left="10.0" />
+               </HBox.margin>
+               <padding>
+                  <Insets bottom="5.0" left="20.0" right="20.0" top="5.0" />
+               </padding>
+            </Button>
+            <Button fx:id="btnClose" mnemonicParsing="false" onAction="#handleClose" text="Закрыть">
+               <HBox.margin>
+                  <Insets left="10.0" />
+               </HBox.margin>
+               <padding>
+                  <Insets bottom="5.0" left="4.0" right="4.0" top="5.0" />
+               </padding>
+            </Button>
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>

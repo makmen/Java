@@ -1,0 +1,10 @@
+Person{surName='Асадов', name='Артем'}
+Person{surName='Гласов', name='Валентин'}
+Person{surName='Громов', name='Андрей'}
+Person{surName='Крошин', name='Евгений'}
+Person{surName='Лисаев', name='Алексей'}
+Person{surName='Лоев', name='Олег'}
+Person{surName='Макась', name='Андрей'}
+Person{surName='Петров', name='Николай'}
+Person{surName='Тарантинова', name='Александра'}
+Person{surName='﻿Крамник', name='Петров'}

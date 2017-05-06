@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_servletsdz2" default="compile.module.servletsdz2">
+  <dirname property="module.servletsdz2.basedir" file="${ant.file.module_servletsdz2}"/>
+  
+  <property name="module.jdk.home.servletsdz2" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.servletsdz2" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.servletsdz2" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.servletsdz2" value="-encoding UTF-8 -source 8 -target 8 ${compiler.args}"/>
+  
+  <property name="servletsdz2.output.dir" value="${module.servletsdz2.basedir}/out/production/servletsDz2"/>
+  <property name="servletsdz2.testoutput.dir" value="${module.servletsdz2.basedir}/out/test/servletsDz2"/>
+  
+  <path id="servletsdz2.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="servletsdz2.module.production.classpath">
+    <path refid="${module.jdk.classpath.servletsdz2}"/>
+    <path refid="library.servlet-api.classpath"/>
+    <path refid="library.jsp-api.classpath"/>
+  </path>
+  
+  <path id="servletsdz2.runtime.production.module.classpath">
+    <pathelement location="${servletsdz2.output.dir}"/>
+    <path refid="library.servlet-api.classpath"/>
+    <path refid="library.jsp-api.classpath"/>
+  </path>
+  
+  <path id="servletsdz2.module.classpath">
+    <path refid="${module.jdk.classpath.servletsdz2}"/>
+    <pathelement location="${servletsdz2.output.dir}"/>
+    <path refid="library.servlet-api.classpath"/>
+    <path refid="library.jsp-api.classpath"/>
+  </path>
+  
+  <path id="servletsdz2.runtime.module.classpath">
+    <pathelement location="${servletsdz2.testoutput.dir}"/>
+    <pathelement location="${servletsdz2.output.dir}"/>
+    <path refid="library.servlet-api.classpath"/>
+    <path refid="library.jsp-api.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.servletsdz2">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.servletsdz2">
+    <patternset refid="excluded.from.module.servletsdz2"/>
+  </patternset>
+  
+  <path id="servletsdz2.module.sourcepath">
+    <dirset dir="${module.servletsdz2.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.servletsdz2" depends="compile.module.servletsdz2.production,compile.module.servletsdz2.tests" description="Compile module servletsDz2"/>
+  
+  <target name="compile.module.servletsdz2.production" description="Compile module servletsDz2; production classes">
+    <mkdir dir="${servletsdz2.output.dir}"/>
+    <javac destdir="${servletsdz2.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.servletsdz2}/javac">
+      <compilerarg line="${compiler.args.servletsdz2}"/>
+      <bootclasspath refid="servletsdz2.module.bootclasspath"/>
+      <classpath refid="servletsdz2.module.production.classpath"/>
+      <src refid="servletsdz2.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.servletsdz2"/>
+    </javac>
+    
+    <copy todir="${servletsdz2.output.dir}">
+      <fileset dir="${module.servletsdz2.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.servletsdz2.tests" depends="compile.module.servletsdz2.production" description="compile module servletsDz2; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.servletsdz2" description="cleanup module">
+    <delete dir="${servletsdz2.output.dir}"/>
+    <delete dir="${servletsdz2.testoutput.dir}"/>
+  </target>
+</project>

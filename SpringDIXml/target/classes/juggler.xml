@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+     http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+	<bean id="duke" class="by.compon.Juggler">
+		<constructor-arg value="15"></constructor-arg>
+	</bean>
+	<bean id="sonnet29" class="by.compon.Sonnet29"></bean>
+	<bean id="poeticDuke" class="by.compon.PoeticJuggler">
+		<constructor-arg value="15"></constructor-arg>
+		<constructor-arg ref="sonnet29"></constructor-arg>
+	</bean>
+	<bean id="audio" class="by.compon.Auditorium"
+		  init-method="turnOnLight" destroy-method="turnOffLight"></bean>
+
+	<bean id="guitar" class="by.compon.Guitar"></bean>
+	<bean id="accoudion" class="by.compon.Accordion"></bean>
+	<bean id="kenny" class="by.compon.InstrumentalList">
+		<property name="song" value="Storik"></property>
+		<property name="instrument" ref="guitar"></property>
+	</bean>
+	<bean id="kolya" class="by.compon.InstrumentalList">
+		<property name="song" value="Storik"></property>
+		<property name="instrument" ref="guitar"></property>
+	</bean>
+	<bean id="vasya" class="by.compon.InstrumentalList">
+		<property name="song" value="Storik"></property>
+		<property name="instrument">
+			<bean class="by.compon.Guitar"></bean>
+		</property>
+	</bean>
+	<bean id="oleg" class="by.compon.InstrumentalList">
+		<property name="song" value="Storik"></property>
+		<property name="instrument">
+			<null></null>
+		</property>
+	</bean>
+
+
+
+	<bean id="bone" class="by.casino.Bone" scope="prototype"></bean>
+	<bean id="you" class="by.casino.Player">
+		<constructor-arg value="0"></constructor-arg>
+		<constructor-arg value="Player"></constructor-arg>
+	</bean>
+	<bean id="comp" class="by.casino.Player">
+		<constructor-arg value="0"></constructor-arg>
+		<constructor-arg value="Computer"></constructor-arg>
+	</bean>
+	<bean id="game" class="by.casino.Game">
+		<constructor-arg name="listBones">
+			<list>
+				<ref bean="bone"></ref>
+				<ref bean="bone"></ref>
+				<ref bean="bone"></ref>
+				<ref bean="bone"></ref>
+				<ref bean="bone"></ref>
+			</list>
+		</constructor-arg>
+		<constructor-arg name="players" >
+			<set>
+				<ref bean="you"></ref>
+				<ref bean="comp"></ref>
+			</set>
+		</constructor-arg>
+
+	</bean>
+
+</beans>
